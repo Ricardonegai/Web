@@ -1,0 +1,47 @@
+*{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color:#000;
+	margin:0;
+	border:0;
+	
+	font-style:none;
+	font-size:16px;
+	text-decoration:none;
+	list-style:none;
+}
+body{
+	background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100%;
+	width:100%;
+	
+}
+#logo img{
+	max-width:30%;
+	margin-left:38%;
+}
+#menu{
+	background-color: black;
+	height:20px;
+	padding:20px;
+	
+}
+#menu ul{
+	margin-left:38%;
+}
+#menu ul li{
+	float:left;
+	margin-right:15px;
+}
+#menu ul li a{
+color: white;
+}
+#rodape{
+	clear: both;
+	font-size: 13px;
+}
+#rodape p{
+	position: fixed;
+	padding: 540px 5px;
+	color: black;
+}
